@@ -93,7 +93,7 @@ h5{
   text-align: center;
 }
 .loader-body p{
-  font-size: 1rem;  
+  font-size: 1.3rem;  
 }
 .loader-content img{
     width: 100px;
@@ -310,6 +310,7 @@ h5{
     margin: 20px 0;
     align-items: center;
     border: none;
+    background-color: transparent;
   }
   .owl-carousel .owl-item img {
       width: 250px;
@@ -525,7 +526,8 @@ footer .icon{
         width: 150px;
     }
     .loader-body p{
-        font-size: 1.5rem;  
+        font-size: 1.7rem;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;  
       }
     .brand img{
         width: 100px;
